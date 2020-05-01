@@ -11,7 +11,7 @@ using SkiaSharp;
 namespace SKLab
 {
     /// <summary>
-    /// smart plot learning SKLab
+    /// simple plot learning SKLab
     /// </summary>
     public partial class TestForm : Form
     {
